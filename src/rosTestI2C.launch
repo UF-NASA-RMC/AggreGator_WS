@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--xml file for roslaunch
+	This will launch nodes meant to run on the O-Droid
+-->
+
+<launch>
+	<!-- Remote Control -->
+
+	<!--Odroid Interface nodes-->
+	<node name="test_node"      pkg="odroid_interface" type="test_node"/>
+	
+		
+</launch>
+

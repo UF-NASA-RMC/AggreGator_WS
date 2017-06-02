@@ -1,0 +1,8 @@
+prefix=/home/issa/AGGREGATOR_WS/devel
+
+Name: motor_drive
+Description: Description of motor_drive
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/issa/AGGREGATOR_WS/devel/lib 
+Requires: roscpp rospy shared_files std_msgs

@@ -1,0 +1,2 @@
+keyboard_controller:motor_drive:odroid_interface:sensors:shared_files:xbox_controller
+-DCATKIN_DEVEL_PREFIX=/home/issa/AGGREGATOR_WS/devel -DCMAKE_INSTALL_PREFIX=/home/issa/AGGREGATOR_WS/install -G Unix Makefiles

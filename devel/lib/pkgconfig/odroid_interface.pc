@@ -1,0 +1,8 @@
+prefix=/home/issa/AGGREGATOR_WS/devel
+
+Name: odroid_interface
+Description: Description of odroid_interface
+Version: 0.0.0
+Cflags: -I/home/issa/AGGREGATOR_WS/src/odroid_interface/include
+Libs: -L/home/issa/AGGREGATOR_WS/devel/lib -lodroid_utility
+Requires: roscpp rospy shared_files std_msgs

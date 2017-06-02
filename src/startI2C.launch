@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--xml file for roslaunch
+	This will launch nodes meant to run on the Odroid
+-->
+
+<launch>
+	<!--Hardware Interface nodes-->
+	<node name="i2c_node"      pkg="odroid_interface" type="i2c_node"/>
+	
+	<!--Motor Controller nodes-->
+	<!--node name="motor_node" pkg="motor_drive" type="motor_node"/-->
+</launch>
+

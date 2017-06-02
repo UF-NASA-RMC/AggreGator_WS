@@ -1,0 +1,2 @@
+set(shared_files_MESSAGE_FILES "/home/issa/AGGREGATOR_WS/src/shared_files/msg/Drive.msg;/home/issa/AGGREGATOR_WS/src/shared_files/msg/Ladder.msg;/home/issa/AGGREGATOR_WS/src/shared_files/msg/Bucket.msg;/home/issa/AGGREGATOR_WS/src/shared_files/msg/Angle.msg;/home/issa/AGGREGATOR_WS/src/shared_files/msg/WriteI2C.msg;/home/issa/AGGREGATOR_WS/src/shared_files/msg/WriteI2CRegister.msg")
+set(shared_files_SERVICE_FILES "/home/issa/AGGREGATOR_WS/src/shared_files/srv/ReadI2C.srv;/home/issa/AGGREGATOR_WS/src/shared_files/srv/ReadI2CRegister.srv")

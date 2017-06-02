@@ -1,0 +1,8 @@
+prefix=/home/issa/AGGREGATOR_WS/install
+
+Name: sensors
+Description: Description of sensors
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/issa/AGGREGATOR_WS/install/lib 
+Requires: roscpp rospy shared_files std_msgs

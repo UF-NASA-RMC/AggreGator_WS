@@ -1,0 +1,8 @@
+prefix=/home/issa/AGGREGATOR_WS/devel
+
+Name: keyboard_controller
+Description: Description of keyboard_controller
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/issa/AGGREGATOR_WS/devel/lib 
+Requires: roscpp rospy shared_files std_msgs

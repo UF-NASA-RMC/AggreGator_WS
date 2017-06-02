@@ -1,0 +1,8 @@
+prefix=/home/issa/AGGREGATOR_WS/devel
+
+Name: xbox_controller
+Description: Description of xbox_controller
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/issa/AGGREGATOR_WS/devel/lib 
+Requires: roscpp std_msgs shared_files
